@@ -14,7 +14,7 @@
 > SET DEBUG=myblog:* & nodemon ./bin/www
 
 ## 通过浏览器访问
-http://localhost:3000
+http://localhost:3003
 
 # 提交代码
 
