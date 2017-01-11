@@ -14,29 +14,41 @@
     </div>
     <!-- 路由出口 -->
     <!-- 路由匹配到的组件将渲染在这里 -->
-    <router-view :seller="seller"></router-view>
+    <keep-alive exclude="ratings">
+      <router-view :seller="seller"></router-view>
+    </keep-alive>
   </div>
 </template>
 
 <script>
   import vHeader from './components/header/header.vue'
   import axios from 'axios'
+  import {urlParse} from 'common/js/util'
   // 表示无错误
   const ERR_OK = 0
   export default {
     data () {
       return {
-        seller: {}
+        seller: {
+          // 从url取得商家id
+          id: (() => {
+            let queryParam = urlParse()
+            return queryParam.id
+          })()
+        }
       }
     },
     created () {
       // 获取商家数据的ajax方法
       axios
-      .get('/api/seller')
+      .get('/api/seller?id=' + this.seller.id)
       .then((response) => {
         if (response.data.errno === ERR_OK) {
           // 取到seller
-          this.seller = response.data.data
+          // this.seller = response.data.data
+          // 给seller添加id
+          this.seller = Object.assign({}, this.seller, response.data.data)
+          // console.log(this.seller.id)
           return this.seller
         }
       })

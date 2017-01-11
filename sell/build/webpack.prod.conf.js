@@ -10,7 +10,7 @@ var env = config.build.env
 
 var webpackConfig = merge(baseWebpackConfig, {
   module: {
-    loaders: utils.styleLoaders({ sourceMap: config.build.productionSourceMap, extract: true })
+    loaders: utils.styleLoaders({ sourceMap: config.build.productionSourceMap, extract: true }) // css和js抽离
   },
   devtool: config.build.productionSourceMap ? '#source-map' : false,
   output: {
