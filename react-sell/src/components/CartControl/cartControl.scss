@@ -1,0 +1,42 @@
+@import 'src/common/css/mixin';
+
+
+.control-container {
+  // position: absolute;
+  // display: flex;
+  // align-items: center;
+  // right: to-rem(13);
+  // bottom: to-rem(13);
+  // width: to-rem(20);
+  // height: to-rem(20);
+  div {
+    display: inline-block;
+    div {
+      display: inline-block;
+    }
+  }
+}
+.cart-num {
+  display: inline-block;
+  color: #666;
+  margin: 0 to-rem(8);
+  height: to-rem(20);
+  font-size: to-rem(12);
+  // line-height: to-rem(20);
+}
+.control-SVG {
+  display: inline-block;
+  width: to-rem(20);
+  height: to-rem(20);
+  fill: #3190e8;
+  vertical-align: middle;
+}
+.minus {
+  vertical-align: middle;
+}
+.visible {
+  visibility: visible;
+}
+.un-visible {
+  visibility: hidden;
+}

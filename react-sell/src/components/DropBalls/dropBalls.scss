@@ -1,0 +1,22 @@
+@import 'src/common/css/mixin';
+
+  .ball {
+    position: fixed;
+    left: to-rem(28);
+    bottom: to-rem(26);
+    z-index: 18;
+    // transition: all 3s cubic-bezier(.49, -.29, .75, .41);
+    .ball-inner {
+      width: to-rem(20);
+      height: to-rem(20);
+      border-radius: 50%;
+      background: rgb(0, 160, 220);
+      // transition: all 3s linear;
+    }
+    // &.drop-enter-active {
+    //   transition: all 3s cubic-bezier(.49, -.29, .75, .41);
+    //   .ball-inner {
+    //     transition: all 3s linear;
+    //   }
+    // }
+  }

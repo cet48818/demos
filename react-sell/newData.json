@@ -1,0 +1,3696 @@
+{
+  "seller": {
+    "name": "延吉烧烤（虹桥路店）",
+    "description": "蜂鸟专送",
+    "deliveryTime": 35,
+    "score": 4.6,
+    "serviceScore": 4.5,
+    "foodScore": 4.7,
+    "rankRate": 71.4,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "carriageFree": 70,
+    "carriageLadder": [
+      [
+        70,
+        0
+      ],
+      [
+        20,
+        3
+      ],
+      [
+        20,
+        7
+      ]
+    ],
+    "carriagePrice": [
+      [
+        0,
+        20,
+        70
+      ],
+      [
+        7,
+        3,
+        0
+      ]
+    ],
+    "ratingCount": 24,
+    "sellCount": 90,
+    "bulletin": "延吉烧烤(虹桥路店)欢迎您!",
+    "supports": [
+      {
+        "type": 0,
+        "mode": "privilege",
+        "description": "新用户下单立减20元(不与其它活动同享)(APP专享)"
+      },
+      {
+        "type": 1,
+        "mode": "privilege",
+        "description": "满100减2(不与美食活动同享)(限在线支付)(APP专享)"
+      },
+      {
+        "type": 2,
+        "mode": "privilege",
+        "description": "满50.0元赠送可乐1份(APP专享)"
+      },
+      {
+        "type": 3,
+        "mode": "support",
+        "description": "已加入“外卖保”计划, 食品安全有保障(APP专享)"
+      },
+      {
+        "type": 4,
+        "mode": "support",
+        "description": "准时必达, 超时秒赔"
+      }
+    ],
+    "avatar": "https://fuss10.elemecdn.com/6/7a/6433366ad1cb24c4a13283d54afe4jpeg.jpeg?imageMogr/quality/80/format/webp/",
+    "headerBg": "//fuss10.elemecdn.com/6/7a/6433366ad1cb24c4a13283d54afe4jpeg.jpeg?imageMogr/format/webp/thumbnail/!40p/blur/50x40/",
+    "pics": [
+      "http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+      "http://fuss10.elemecdn.com/b/6c/75bd250e5ba69868f3b1178afbda3jpeg.jpeg?imageView2/1/w/180/h/180",
+      "http://fuss10.elemecdn.com/f/96/3d608c5811bc2d902fc9ab9a5baa7jpeg.jpeg?imageView2/1/w/180/h/180",
+      "http://fuss10.elemecdn.com/6/ad/779f8620ff49f701cd4c58f6448b6jpeg.jpeg?imageView2/1/w/180/h/180"
+    ],
+    "infos": [
+      "地址: 城南6组38号",
+      "营业时间: 17:30-03:00"
+    ],
+    "license": [
+      {
+        "营业执照": "https://fuss10.elemecdn.com/2/28/3c75b021a2360d933197ee08465b7png.png"
+      },
+      {
+        "餐饮服务许可证": "https://fuss10.elemecdn.com/9/31/6cc1797685a224330a792e79b4430jpeg.jpeg"
+      }
+    ]
+  },
+  "goods": [
+    {
+      "name": "热销榜",
+      "type": -1,
+      "desc": "大家喜欢吃, 才叫真好吃",
+      "foods": [
+        {
+          "goodId": 0,
+          "typeId": 0,
+          "name": "骨肉相连",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 214,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/5/c6/ec1c4bd79e68b897c34843b10b796jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/5/c6/ec1c4bd79e68b897c34843b10b796jpeg.jpeg",
+          "itemNum": 0
+        },
+        {
+          "goodId": 1,
+          "typeId": 0,
+          "name": "羊肉串",
+          "price": 10,
+          "oldPrice": "",
+          "description": "自家腌制",
+          "sellCount": 1068,
+          "rating": 93,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢的粥",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/a/3f/92f204757aee991b9b2738055847djpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/a/3f/92f204757aee991b9b2738055847djpeg.jpeg",
+          "itemNum": 1
+        },
+        {
+          "goodId": 2,
+          "typeId": 0,
+          "name": "金针菇",
+          "price": 1,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 824,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "info": "",
+          "icon": "https://fuss10.elemecdn.com/b/65/ce682619e98e40837a24f2fff9fe1jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/b/65/ce682619e98e40837a24f2fff9fe1jpeg.jpeg",
+          "itemNum": 2
+        },
+        {
+          "goodId": 3,
+          "typeId": 0,
+          "name": "掌中宝",
+          "price": 3,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 819,
+          "rating": 96,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/b/0f/3f0ec0a63bf8fbd9a3c4062d73624jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/b/0f/3f0ec0a63bf8fbd9a3c4062d73624jpeg.jpeg",
+          "itemNum": 3
+        },
+        {
+          "goodId": 4,
+          "typeId": 0,
+          "name": "土豆片",
+          "price": 1,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 699,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/a/db/2109458effd346646645e48105ec1jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/a/db/2109458effd346646645e48105ec1jpeg.jpeg",
+          "itemNum": 4
+        },
+        {
+          "goodId": 5,
+          "typeId": 0,
+          "name": "五花肉",
+          "price": 3,
+          "oldPrice": "",
+          "description": "自家腌制",
+          "sellCount": 656,
+          "rating": 95,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/e/6f/f9c8922cafe9df106b2a2f0507470jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/e/6f/f9c8922cafe9df106b2a2f0507470jpeg.jpeg",
+          "itemNum": 5
+        },
+        {
+          "goodId": 6,
+          "typeId": 0,
+          "name": "鸡皮",
+          "price": 1,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 540,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/8/50/c2e1cad0626647eceed7475160347jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/8/50/c2e1cad0626647eceed7475160347jpeg.jpeg",
+          "itemNum": 6
+        },
+        {
+          "goodId": 7,
+          "typeId": 0,
+          "name": "豆腐",
+          "price": 1,
+          "oldPrice": "",
+          "description": "加蒜泥和香菜的, 不加的请备注",
+          "sellCount": 512,
+          "rating": 80,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/6/54/2a4e9207c62ed5c9d8c13ec4299abjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/6/54/2a4e9207c62ed5c9d8c13ec4299abjpeg.jpeg",
+          "itemNum": 7
+        },
+        {
+          "goodId": 8,
+          "typeId": 0,
+          "name": "牛肉串",
+          "price": 3,
+          "oldPrice": "",
+          "description": "自家腌制",
+          "sellCount": 1068,
+          "rating": 93,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/b/bc/3b782c68344cb66e97f97d03c61b2jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/b/bc/3b782c68344cb66e97f97d03c61b2jpeg.jpeg",
+          "itemNum": 8
+        },
+        {
+          "goodId": 9,
+          "typeId": 0,
+          "name": "花菜",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 484,
+          "rating": 77,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/f/4f/b4d10b972b4c08a95988e578d288cjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/f/4f/b4d10b972b4c08a95988e578d288cjpeg.jpeg",
+          "itemNum": 9
+        },
+        {
+          "goodId": 10,
+          "typeId": 0,
+          "name": "馒头片",
+          "price": 1,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 377,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/0/2f/c578a9ba86d039c346b2976f706f9jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/0/2f/c578a9ba86d039c346b2976f706f9jpeg.jpeg",
+          "itemNum": 10
+        }
+      ]
+    },
+    {
+      "name": "特色推荐",
+      "type": 2,
+      "foods": [
+        {
+          "goodId": 0,
+          "typeId": 1,
+          "name": "羊肉串",
+          "price": 3,
+          "oldPrice": "",
+          "description": "自家腌制",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/a/3f/92f204757aee991b9b2738055847djpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/a/3f/92f204757aee991b9b2738055847djpeg.jpeg",
+          "itemNum": 11
+        },
+        {
+          "goodId": 1,
+          "typeId": 1,
+          "name": "牛肉串",
+          "price": 3,
+          "oldPrice": "",
+          "description": "自家腌制",
+          "sellCount": 493,
+          "rating": 96,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/b/bc/3b782c68344cb66e97f97d03c61b2jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/b/bc/3b782c68344cb66e97f97d03c61b2jpeg.jpeg",
+          "itemNum": 12
+        },
+        {
+          "goodId": 2,
+          "typeId": 1,
+          "name": "猪脆骨",
+          "price": 3,
+          "oldPrice": "",
+          "description": "自家腌制",
+          "sellCount": 344,
+          "rating": 88,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/b/45/75add144d3f914f2ca25e263cf91bjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/b/45/75add144d3f914f2ca25e263cf91bjpeg.jpeg",
+          "itemNum": 13
+        },
+        {
+          "goodId": 3,
+          "typeId": 1,
+          "name": "五花肉",
+          "price": 3,
+          "oldPrice": "",
+          "description": "自家腌制",
+          "sellCount": 656,
+          "rating": 95,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/e/6f/f9c8922cafe9df106b2a2f0507470jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/e/6f/f9c8922cafe9df106b2a2f0507470jpeg.jpeg",
+          "itemNum": 14
+        },
+        {
+          "goodId": 4,
+          "typeId": 1,
+          "name": "鸡腿",
+          "price": 7,
+          "oldPrice": "",
+          "description": "自家腌制",
+          "sellCount": 62,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/3/c4/6173f2d1dcb2addff34e2ef4e2795jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/3/c4/6173f2d1dcb2addff34e2ef4e2795jpeg.jpeg",
+          "itemNum": 15
+        },
+        {
+          "goodId": 5,
+          "typeId": 1,
+          "name": "鲫鱼",
+          "price": 15,
+          "oldPrice": "",
+          "description": "进口烧烤汁炮制而成 上面再铺层美味蒜泥和香菜哦! 不加的请备注",
+          "sellCount": 16,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/9/f9/a35783c349e5168bc62a32a349c6ejpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/9/f9/a35783c349e5168bc62a32a349c6ejpeg.jpeg",
+          "itemNum": 16
+        },
+        {
+          "goodId": 6,
+          "typeId": 1,
+          "name": "百叶卷",
+          "price": 1,
+          "oldPrice": "",
+          "description": "里面有香菜和金针菇",
+          "sellCount": 162,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/e/a7/d9baa87cdb22042e5b0db27338d3bjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/e/a7/d9baa87cdb22042e5b0db27338d3bjpeg.jpeg",
+          "itemNum": 17
+        },
+        {
+          "goodId": 7,
+          "typeId": 1,
+          "name": "羊排",
+          "price": 7,
+          "oldPrice": "",
+          "description": "特色腌制 外焦里嫩 口感鲜美",
+          "sellCount": 85,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/8/18/119316e0c13968d590f5431e24b47jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/8/18/119316e0c13968d590f5431e24b47jpeg.jpeg",
+          "itemNum": 18
+        }
+      ]
+    },
+    {
+      "name": "口味",
+      "type": 2,
+      "desc": "辣椒偏辣 重口味或清淡口味的请备注",
+      "foods": [
+        {
+          "goodId": 0,
+          "typeId": 2,
+          "name": "不辣",
+          "price": 0,
+          "description": "",
+          "sellCount": "",
+          "rating": "",
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/750/h/750",
+          "itemNum": 19
+        },
+        {
+          "goodId": 1,
+          "typeId": 2,
+          "name": "微辣",
+          "price": 0,
+          "description": "",
+          "sellCount": "",
+          "rating": "",
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/750/h/750",
+          "itemNum": 20
+        },
+        {
+          "goodId": 2,
+          "typeId": 2,
+          "name": "中辣",
+          "price": 0,
+          "description": "",
+          "sellCount": "",
+          "rating": "",
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/750/h/750",
+          "itemNum": 21
+        },
+        {
+          "goodi": 3,
+          "typeId": 2,
+          "name": "重辣",
+          "price": 0,
+          "description": "",
+          "sellCount": "",
+          "rating": "",
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/750/h/750",
+          "itemNum": 22
+        }
+      ]
+    },
+    {
+      "name": "鸡肉类",
+      "type": 1,
+      "foods": [
+        {
+          "goodId": 0,
+          "typeId": 3,
+          "name": "VC无限橙果汁",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/750/h/750",
+          "itemNum": 23
+        },
+        {
+          "goodId": 1,
+          "typeId": 3,
+          "name": "秘制烤中翅",
+          "price": 7,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15251,
+          "rating": 96,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/d/40/676cbac536bbe0b72c20eadd8c9b3jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/d/40/676cbac536bbe0b72c20eadd8c9b3jpeg.jpeg",
+          "itemNum": 24
+        },
+        {
+          "goodId": 2,
+          "typeId": 3,
+          "name": "奥尔良烤翅",
+          "price": 7,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 71,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/4/57/a4c90fec4b467f1f06d992b090e12jpeg.jpeg",
+          "image": "https://fuss10.elemecdn.com/4/57/a4c90fec4b467f1f06d992b090e12jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "itemNum": 25
+        },
+        {
+          "goodId": 3,
+          "typeId": 3,
+          "name": "鸡腿",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "自家腌制",
+          "sellCount": 35,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/a/43/faf7bc9334c0a51630c468280b2bcjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/a/43/faf7bc9334c0a51630c468280b2bcjpeg.jpeg",
+          "itemNum": 26
+        },
+        {
+          "goodId": 4,
+          "typeId": 3,
+          "name": "掌中宝",
+          "price": 3,
+          "oldPrice": 10,
+          "description": "",
+          "sellCount": 819,
+          "rating": 96,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/b/0f/3f0ec0a63bf8fbd9a3c4062d73624jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/b/0f/3f0ec0a63bf8fbd9a3c4062d73624jpeg.jpeg",
+          "itemNum": 27
+        },
+        {
+          "goodId": 5,
+          "typeId": 3,
+          "name": "鸡胗",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 177,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/b/f8/b53c530dbd66117f14f903e86ccc3jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/b/f8/b53c530dbd66117f14f903e86ccc3jpeg.jpeg",
+          "itemNum": 28
+        },
+        {
+          "goodId": 6,
+          "typeId": 3,
+          "name": "鸡心",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "",
+          "sellCount": 134,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/b/88/6c1349a743dff438c18f60d3b8588jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/b/88/6c1349a743dff438c18f60d3b8588jpeg.jpeg",
+          "itemNum": 29
+        },
+        {
+          "goodId": 7,
+          "typeId": 3,
+          "name": "鸡肉",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 232,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/2/7f/f4b327e70ca2b294752cbd7369a9fjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/2/7f/f4b327e70ca2b294752cbd7369a9fjpeg.jpeg",
+          "itemNum": 30
+        },
+        {
+          "goodId": 8,
+          "typeId": 3,
+          "name": "鸡骨头",
+          "price": 3,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 306,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/9/0b/ab230992e1c9e48f2aff12901a9acjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/9/0b/ab230992e1c9e48f2aff12901a9acjpeg.jpeg",
+          "itemNum": 31
+        },
+        {
+          "goodId": 9,
+          "typeId": 3,
+          "name": "鸡翅尖",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 306,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/1/b0/27323033e7f7c8fc7ee18b174063fjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/1/b0/27323033e7f7c8fc7ee18b174063fjpeg.jpeg",
+          "itemNum": 32
+        },
+        {
+          "goodId": 10,
+          "typeId": 3,
+          "name": "鸡皮",
+          "price": 1,
+          "oldPrice": 10,
+          "description": "",
+          "sellCount": 540,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/8/50/c2e1cad0626647eceed7475160347jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/8/50/c2e1cad0626647eceed7475160347jpeg.jpeg",
+          "itemNum": 33
+        },
+        {
+          "goodId": 11,
+          "typeId": 3,
+          "name": "鸡胸骨",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 89,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/c/4f/38aa020e06125c765a666f2baf175jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/c/4f/38aa020e06125c765a666f2baf175jpeg.jpeg",
+          "itemNum": 34
+        },
+        {
+          "goodId": 12,
+          "typeId": 3,
+          "name": "骨肉相连",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 214,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/5/c6/ec1c4bd79e68b897c34843b10b796jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/5/c6/ec1c4bd79e68b897c34843b10b796jpeg.jpeg",
+          "itemNum": 35
+        },
+        {
+          "goodId": 13,
+          "typeId": 3,
+          "name": "皮包肉",
+          "price": 3,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 31,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/6/fc/90c8851fd0e2448e695fb29405cc2jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/6/fc/90c8851fd0e2448e695fb29405cc2jpeg.jpeg",
+          "itemNum": 36
+        },
+        {
+          "goodId": 14,
+          "typeId": 3,
+          "name": "鸡脖子",
+          "price": 3,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 20,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/d/fc/3dede11f17eeb69366486e72fc4f8jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/d/fc/3dede11f17eeb69366486e72fc4f8jpeg.jpeg",
+          "itemNum": 37
+        }
+      ]
+    },
+    {
+      "name": "羊肉类",
+      "type": 2,
+      "foods": [
+        {
+          "goodId": 0,
+          "typeId": 4,
+          "name": "羊肉串",
+          "price": 3,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 170,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "菜量还可以,味道还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/2/07/6ab26826c53f4135a1abdf48b7196jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/2/07/6ab26826c53f4135a1abdf48b7196jpeg.jpeg",
+          "itemNum": 38
+        },
+        {
+          "goodId": 1,
+          "typeId": 4,
+          "name": "羊排",
+          "price": 8,
+          "oldPrice": "",
+          "description": "自家腌制",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/8/18/119316e0c13968d590f5431e24b47jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/8/18/119316e0c13968d590f5431e24b47jpeg.jpeg",
+          "itemNum": 39
+        },
+        {
+          "goodId": 2,
+          "typeId": 4,
+          "name": "羊腰",
+          "price": 20,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 18,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/f/bb/d9bb7629cdfa5bf59eecdb6e5fd99jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/f/bb/d9bb7629cdfa5bf59eecdb6e5fd99jpeg.jpeg",
+          "itemNum": 40
+        },
+        {
+          "goodId": 3,
+          "typeId": 4,
+          "name": "羊宝",
+          "price": 20,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 9,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/7/65/dc04907362cc92816cb2dd6a33582jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/7/65/dc04907362cc92816cb2dd6a33582jpeg.jpeg",
+          "itemNum": 41
+        }
+      ]
+    },
+    {
+      "name": "牛肉类",
+      "type": 2,
+      "foods": [
+        {
+          "goodId": 0,
+          "typeId": 5,
+          "name": "牛肉串",
+          "price": 3,
+          "oldPrice": "",
+          "description": "自家腌制",
+          "sellCount": 147,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/b/bc/3b782c68344cb66e97f97d03c61b2jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/b/bc/3b782c68344cb66e97f97d03c61b2jpeg.jpeg",
+          "itemNum": 42
+        },
+        {
+          "goodId": 1,
+          "typeId": 5,
+          "name": "牛板筋",
+          "price": 3,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 156,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/3/5e/3b5165c01991519e8f85ccc92b5d5jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/3/5e/3b5165c01991519e8f85ccc92b5d5jpeg.jpeg",
+          "itemNum": 43
+        },
+        {
+          "goodId": 2,
+          "typeId": 5,
+          "name": "牛蹄筋",
+          "price": 3,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 107,
+          "rating": 80,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/0/6f/362f00e6e4117c82c2eb09b7db734jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/0/6f/362f00e6e4117c82c2eb09b7db734jpeg.jpeg",
+          "itemNum": 44
+        }
+      ]
+    },
+    {
+      "name": "猪肉类",
+      "type": 2,
+      "foods": [
+        {
+          "goodId": 0,
+          "typeId": 6,
+          "name": "五花肉",
+          "price": 3,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 131,
+          "rating": 75,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/3/3e/919b9eec493ae995482b63f94f4a6jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/3/3e/919b9eec493ae995482b63f94f4a6jpeg.jpeg",
+          "itemNum": 45
+        },
+        {
+          "goodId": 1,
+          "typeId": 6,
+          "name": "猪脆骨",
+          "price": 3,
+          "oldPrice": "",
+          "description": "自家腌制",
+          "sellCount": 87,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/2/38/19ac6b977497cff07b8408b23e419jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/2/38/19ac6b977497cff07b8408b23e419jpeg.jpeg",
+          "itemNum": 46
+        },
+        {
+          "goodId": 2,
+          "typeId": 6,
+          "name": "培根卷",
+          "price": 5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 106,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/e/1e/328ad259cd3800d8d9fedfbb7b1f7jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/e/1e/328ad259cd3800d8d9fedfbb7b1f7jpeg.jpeg",
+          "itemNum": 47
+        }
+      ]
+    },
+    {
+      "name": "肠类",
+      "type": 2,
+      "foods": [
+        {
+          "goodId": 0,
+          "typeId": 7,
+          "name": "枣肠",
+          "price": 3,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 105,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/b/42/faf36f154530a5a634a26f9d30bc8jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/b/42/faf36f154530a5a634a26f9d30bc8jpeg.jpeg",
+          "itemNum": 48
+        },
+        {
+          "goodId": 1,
+          "typeId": 7,
+          "name": "热狗",
+          "price": 1,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 360,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/d/3d/63047d6090e8859840f8af658b018jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/d/3d/63047d6090e8859840f8af658b018jpeg.jpeg",
+          "itemNum": 49
+        },
+        {
+          "goodId": 2,
+          "typeId": 7,
+          "name": "鱼豆腐",
+          "price": 3,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/e/f4/8e0dc4816d59a4d4949769081f3ccjpeg.jpeg",
+          "image": "https://fuss10.elemecdn.com/e/f4/8e0dc4816d59a4d4949769081f3ccjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "itemNum": 50
+        },
+        {
+          "goodId": 3,
+          "typeId": 7,
+          "name": "虾糕",
+          "price": 3,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 47,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/c/de/39330d494e2645ac160e2d0d1df0cjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/c/de/39330d494e2645ac160e2d0d1df0cjpeg.jpeg",
+          "itemNum": 51
+        }
+      ]
+    },
+    {
+      "name": "鱼水产类",
+      "type": 2,
+      "foods": [
+        {
+          "goodId": 0,
+          "typeId": 8,
+          "name": "对虾",
+          "price": 5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 89,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/5/0e/b8b8a1c2e83ff73ac8510b7f2bc3fjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/5/0e/b8b8a1c2e83ff73ac8510b7f2bc3fjpeg.jpeg",
+          "itemNum": 52
+        },
+        {
+          "goodId": 1,
+          "typeId": 8,
+          "name": "多味鱼干",
+          "price": 4,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 25,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/9/b4/55b554ae099114d94a7d08fe66822jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/9/b4/55b554ae099114d94a7d08fe66822jpeg.jpeg",
+          "itemNum": 53
+        },
+        {
+          "goodId": 2,
+          "typeId": 8,
+          "name": "田螺",
+          "price": 3,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 57,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/e/7c/345429ea19ef898666c21fe2bd2e8jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/e/7c/345429ea19ef898666c21fe2bd2e8jpeg.jpeg",
+          "itemNum": 54
+        },
+        {
+          "goodId": 3,
+          "typeId": 8,
+          "name": "鱿鱼须",
+          "price": 4,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 127,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/1/3e/2d81bcd02dbee52f6f3dc6c711aa3jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/1/3e/2d81bcd02dbee52f6f3dc6c711aa3jpeg.jpeg",
+          "itemNum": 55
+        },
+        {
+          "goodId": 4,
+          "typeId": 8,
+          "name": "板鱼",
+          "price": 7,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 48,
+          "rating": 75,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/1/ed/28f4c2281a50d5fe3f015c8974408jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/1/ed/28f4c2281a50d5fe3f015c8974408jpeg.jpeg",
+          "itemNum": 56
+        },
+        {
+          "goodId": 5,
+          "typeId": 8,
+          "name": "鲳鳊鱼",
+          "price": 8,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 46,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/1/89/defad64c168f579ca14a2ce229f1bjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/1/89/defad64c168f579ca14a2ce229f1bjpeg.jpeg",
+          "itemNum": 57
+        },
+        {
+          "goodId": 6,
+          "typeId": 8,
+          "name": "大鱿鱼",
+          "price": 6,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 46,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/1/13/b174ab1c12ae7e26b802f3787952djpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/1/13/b174ab1c12ae7e26b802f3787952djpeg.jpeg",
+          "itemNum": 58
+        },
+        {
+          "goodId": 7,
+          "typeId": 8,
+          "name": "秋刀鱼",
+          "price": 6,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 16,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/2/a9/5f452433810634f1a9abc92b580a8jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/2/a9/5f452433810634f1a9abc92b580a8jpeg.jpeg",
+          "itemNum": 59
+        },
+        {
+          "goodId": 8,
+          "typeId": 8,
+          "name": "鲫鱼",
+          "price": 7,
+          "oldPrice": "",
+          "description": "加蒜泥和湘菜的, 不加的请备注",
+          "sellCount": 16,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/5/80/21345990de7fc2275aaa2bed96e44jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/5/80/21345990de7fc2275aaa2bed96e44jpeg.jpeg",
+          "itemNum": 60
+        },
+        {
+          "goodId": 9,
+          "typeId": 8,
+          "name": "蒜蓉扇贝",
+          "price": 9,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/9/42/beecd0444f4559f48dff65cfdb224jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/9/42/beecd0444f4559f48dff65cfdb224jpeg.jpeg",
+          "itemNum": 61
+        },
+        {
+          "goodId": 10,
+          "typeId": 8,
+          "name": "蒜蓉生蚝",
+          "price": 8,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 130,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/5/28/6c62f82a7674b03cadafe44af405ejpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/5/28/6c62f82a7674b03cadafe44af405ejpeg.jpeg",
+          "itemNum": 62
+        }
+      ]
+    },
+    {
+      "name": "蔬菜类",
+      "type": 2,
+      "foods": [
+        {
+          "goodId": 0,
+          "typeId": 9,
+          "name": "蒜蓉茄子",
+          "price": 8,
+          "oldPrice": "",
+          "description": "加蒜泥和香菜的",
+          "sellCount": 133,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢的粥",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/e/aa/dc3e0ba3766f1085839850e49b384jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/e/aa/dc3e0ba3766f1085839850e49b384jpeg.jpeg",
+          "itemNum": 63
+        },
+        {
+          "goodId": 1,
+          "typeId": 9,
+          "name": "韭菜",
+          "price": 1,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 519,
+          "rating": 80,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/0/4d/71d08ac8d1a47fb1adb7ed87df8a7jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/0/4d/71d08ac8d1a47fb1adb7ed87df8a7jpeg.jpeg",
+          "itemNum": 64
+        },
+        {
+          "goodId": 2,
+          "typeId": 9,
+          "name": "金针菇",
+          "price": 12,
+          "oldPrice": "",
+          "description": "甜粥",
+          "sellCount": 824,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/b/65/ce682619e98e40837a24f2fff9fe1jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/b/65/ce682619e98e40837a24f2fff9fe1jpeg.jpeg",
+          "itemNum": 65
+        },
+        {
+          "goodId": 3,
+          "typeId": 9,
+          "name": "娃娃菜",
+          "price": 1,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 245,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/b/ba/fc119e3a593f280dbdb146c6aef81jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/b/ba/fc119e3a593f280dbdb146c6aef81jpeg.jpeg",
+          "itemNum": 66
+        },
+        {
+          "goodId": 4,
+          "typeId": 9,
+          "name": "花菜",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 484,
+          "rating": 77,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": ""
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/f/4f/b4d10b972b4c08a95988e578d288cjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/f/4f/b4d10b972b4c08a95988e578d288cjpeg.jpeg",
+          "itemNum": 67
+        },
+        {
+          "goodId": 5,
+          "typeId": 9,
+          "name": "豆角",
+          "price": 1,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 219,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/3/bf/a2a9b40c14c5fe10fa4f502b85861jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/3/bf/a2a9b40c14c5fe10fa4f502b85861jpeg.jpeg",
+          "itemNum": 68
+        },
+        {
+          "goodId": 6,
+          "typeId": 9,
+          "name": "土豆片",
+          "price": 1,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 699,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/a/db/2109458effd346646645e48105ec1jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/a/db/2109458effd346646645e48105ec1jpeg.jpeg",
+          "itemNum": 69
+        },
+        {
+          "goodId": 7,
+          "typeId": 9,
+          "name": "百叶卷",
+          "price": 1,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 61,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/e/d9/f1bb0ed5ab3de1517c8418f29ae10jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/e/d9/f1bb0ed5ab3de1517c8418f29ae10jpeg.jpeg",
+          "itemNum": 70
+        },
+        {
+          "goodId": 8,
+          "typeId": 9,
+          "name": "平菇",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 168,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/0/c0/14aa3f81d35d8d49ae9a01153591ejpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/0/c0/14aa3f81d35d8d49ae9a01153591ejpeg.jpeg",
+          "itemNum": 71
+        },
+        {
+          "goodId": 9,
+          "typeId": 9,
+          "name": "香菇",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 168,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/4/e0/987fc5c94b73a25318b9c77a42488jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/4/e0/987fc5c94b73a25318b9c77a42488jpeg.jpeg",
+          "itemNum": 72
+        },
+        {
+          "goodId": 10,
+          "typeId": 9,
+          "name": "生菜",
+          "price": 1,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 39,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/8/b9/d0574e68aebc374073a8a03950f07jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/8/b9/d0574e68aebc374073a8a03950f07jpeg.jpeg",
+          "itemNum": 73
+        },
+        {
+          "goodId": 11,
+          "typeId": 9,
+          "name": "海带结",
+          "price": 1,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 79,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/5/c2/dbc2ff0f898cbb6cbf346ed67fdbcjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/5/c2/dbc2ff0f898cbb6cbf346ed67fdbcjpeg.jpeg",
+          "itemNum": 74
+        },
+        {
+          "goodId": 12,
+          "typeId": 9,
+          "name": "大蒜",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 162,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/9/1f/05f29d3bcdf1bac2b98d3f3324ecajpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/9/1f/05f29d3bcdf1bac2b98d3f3324ecajpeg.jpeg",
+          "itemNum": 75
+        },
+        {
+          "goodId": 13,
+          "typeId": 9,
+          "name": "辣椒",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 67,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/1/8a/d6a645960b6dcf29f4665df9f4effjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/1/8a/d6a645960b6dcf29f4665df9f4effjpeg.jpeg",
+          "itemNum": 76
+        },
+        {
+          "goodId": 14,
+          "typeId": 9,
+          "name": "尖椒",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/9/05/67802047d40b6a9e7f72d5389cbeejpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/9/05/67802047d40b6a9e7f72d5389cbeejpeg.jpeg",
+          "itemNum": 77
+        },
+        {
+          "goodId": 15,
+          "typeId": 9,
+          "name": "豆腐",
+          "price": 1,
+          "oldPrice": "",
+          "description": "加蒜泥和香菜的, 不加的请备注",
+          "sellCount": 512,
+          "rating": 80,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/6/54/2a4e9207c62ed5c9d8c13ec4299abjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/6/54/2a4e9207c62ed5c9d8c13ec4299abjpeg.jpeg",
+          "itemNum": 78
+        },
+        {
+          "goodId": 16,
+          "typeId": 9,
+          "name": "千叶豆腐",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 76,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/6/65/398847f664852050bbeddd21105c1jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/6/65/398847f664852050bbeddd21105c1jpeg.jpeg",
+          "itemNum": 79
+        },
+        {
+          "goodId": 17,
+          "typeId": 9,
+          "name": "面筋",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 198,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/7/06/2070fbedf076d621f68bac5d73b70jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/7/06/2070fbedf076d621f68bac5d73b70jpeg.jpeg",
+          "itemNum": 80
+        },
+        {
+          "goodId": 18,
+          "typeId": 9,
+          "name": "茶干",
+          "price": 1,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 55,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/2/44/5638a85fb4ac14cc2c22849896f3djpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/2/44/5638a85fb4ac14cc2c22849896f3djpeg.jpeg",
+          "itemNum": 81
+        },
+        {
+          "goodId": 19,
+          "typeId": 9,
+          "name": "馒头片",
+          "price": 1,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 377,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/0/2f/c578a9ba86d039c346b2976f706f9jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/0/2f/c578a9ba86d039c346b2976f706f9jpeg.jpeg",
+          "itemNum": 82
+        },
+        {
+          "goodId": 20,
+          "typeId": 9,
+          "name": "黄金糕",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 89,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/8/28/1a741542ac84dc17fffdac922cdd0jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/8/28/1a741542ac84dc17fffdac922cdd0jpeg.jpeg",
+          "itemNum": 83
+        }
+      ]
+    },
+    {
+      "name": "水果类",
+      "type": 2,
+      "foods": [
+        {
+          "goodId": 0,
+          "typeId": 10,
+          "name": "烤香蕉",
+          "price": 3,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 50,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://fuss10.elemecdn.com/7/64/493d1e68843fcc1a65808f5706090jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/7/64/493d1e68843fcc1a65808f5706090jpeg.jpeg",
+          "itemNum": 84
+        }
+      ]
+    },
+    {
+      "name": "酒水",
+      "type": 2,
+      "foods": [
+        {
+          "goodId": 0,
+          "typeId": 11,
+          "name": "雪花勇闯天涯",
+          "price": 8,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 24,
+          "rating": "",
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/7/17/db37c0b63b61fc429453db4f51e18jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/7/17/db37c0b63b61fc429453db4f51e18jpeg.jpeg",
+          "itemNum": 85
+        },
+        {
+          "goodId": 1,
+          "typeId": 11,
+          "name": "雪花原汁麦",
+          "price": 5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 39,
+          "rating": 100,
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/0/16/1c09efe27adc7f1f085ad8e2f5a6djpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/0/16/1c09efe27adc7f1f085ad8e2f5a6djpeg.jpeg",
+          "itemNum": 86
+        },
+        {
+          "goodId": 2,
+          "typeId": 11,
+          "name": "雪花纯生",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 9,
+          "rating": "",
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/4/c6/b771ee1356ade4b48174b637c6176jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/4/c6/b771ee1356ade4b48174b637c6176jpeg.jpeg",
+          "itemNum": 87
+        },
+        {
+          "goodId": 3,
+          "typeId": 11,
+          "name": "水明楼金标",
+          "price": 20,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": "",
+          "rating": "",
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/2/f0/98871e71dd0686f18e8c55fa3768cjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/2/f0/98871e71dd0686f18e8c55fa3768cjpeg.jpeg",
+          "itemNum": 88
+        },
+        {
+          "goodId": 4,
+          "typeId": 11,
+          "name": "水明楼银标",
+          "price": 15,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1,
+          "rating": "",
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/c/e6/69d03c223d9a5d898e3cd4769230ajpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/c/e6/69d03c223d9a5d898e3cd4769230ajpeg.jpeg",
+          "itemNum": 89
+        },
+        {
+          "goodId": 5,
+          "typeId": 11,
+          "name": "上海老酒",
+          "price": 15,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 2,
+          "rating": "",
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/f/7e/56dd262d51ea51f1a510a1c65749ajpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/f/7e/56dd262d51ea51f1a510a1c65749ajpeg.jpeg",
+          "itemNum": 90
+        },
+        {
+          "goodId": 6,
+          "typeId": 11,
+          "name": "红牛",
+          "price": 8,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 3,
+          "rating": "",
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/8/f9/5781f371ace58c9419938c70c4f95jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/8/f9/5781f371ace58c9419938c70c4f95jpeg.jpeg",
+          "itemNum": 91
+        },
+        {
+          "goodId": 7,
+          "typeId": 11,
+          "name": "小岗本色红豆浓浆",
+          "price": 7,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 2,
+          "rating": "",
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/9/a0/6cc27484855c76cb244923d37f227jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/9/a0/6cc27484855c76cb244923d37f227jpeg.jpeg",
+          "itemNum": 92
+        },
+        {
+          "goodId": 8,
+          "typeId": 11,
+          "name": "小岗本色绿豆浓浆",
+          "price": 8,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 24,
+          "rating": "",
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/d/33/1c6087de8e68abf03886f7635046djpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/d/33/1c6087de8e68abf03886f7635046djpeg.jpeg",
+          "itemNum": 93
+        },
+        {
+          "goodId": 9,
+          "typeId": 11,
+          "name": "王老吉",
+          "price": 5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 14,
+          "rating": 66,
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/9/d5/c13d74717654374243bedf9ec6134jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/9/d5/c13d74717654374243bedf9ec6134jpeg.jpeg",
+          "itemNum": 94
+        },
+        {
+          "goodId": 10,
+          "typeId": 11,
+          "name": "椰汁",
+          "price": 7,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": "",
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/f/a6/a17beab07f77fd83fbed2a95dba21jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/f/a6/a17beab07f77fd83fbed2a95dba21jpeg.jpeg",
+          "itemNum": 95
+        },
+        {
+          "goodId": 11,
+          "typeId": 11,
+          "name": "可口可乐",
+          "price": 5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 37,
+          "rating": 100,
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/e/e6/0939fcbb38dc348a438a0e69054ecjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/e/e6/0939fcbb38dc348a438a0e69054ecjpeg.jpeg",
+          "itemNum": 96
+        },
+        {
+          "goodId": 12,
+          "typeId": 11,
+          "name": "雪碧",
+          "price": 5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 30,
+          "rating": 50,
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/9/68/3ee55881a6655600924b435398b91jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/9/68/3ee55881a6655600924b435398b91jpeg.jpeg",
+          "itemNum": 97
+        },
+        {
+          "goodId": 13,
+          "typeId": 11,
+          "name": "红星二锅头",
+          "price": 8,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 2,
+          "rating": 100,
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/d/81/756a6f606b87dad123e9c3d84ea37jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/d/81/756a6f606b87dad123e9c3d84ea37jpeg.jpeg",
+          "itemNum": 98
+        },
+        {
+          "goodId": 14,
+          "typeId": 11,
+          "name": "劲酒",
+          "price": 14,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 4,
+          "rating": "",
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/f/14/9aacc4623ec59d1e69156acf3d251jpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/f/14/9aacc4623ec59d1e69156acf3d251jpeg.jpeg",
+          "itemNum": 99
+        },
+        {
+          "goodId": 15,
+          "typeId": 11,
+          "name": "老村长",
+          "price": 12,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1,
+          "rating": "",
+          "ratings": [],
+          "icon": "https://fuss10.elemecdn.com/9/93/bf6b9a0eef55e432732ce700c467cjpeg.jpeg?imageMogr/thumbnail/140x140/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/9/93/bf6b9a0eef55e432732ce700c467cjpeg.jpeg",
+          "itemNum": 100
+        }
+      ]
+    }
+  ],
+  "ratings": [
+    {
+      "username": "3******c",
+      "rateTime": 1469281964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "真棒? 太饿了, 还没来得及拍就光盘了, 好吃, 送货超快, 下周的午餐就靠你了! 哈哈",
+      "reply": "谢谢你的支持!",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "images": [
+        "https://fuss10.elemecdn.com/4/b6/296690df9d63759ccdc756555b3bcjpeg.jpeg?imageMogr/quality/80/format/webp/thumbnail/!142x142r/gravity/Center/crop/142x142/",
+        "https://fuss10.elemecdn.com/7/27/0db26a96cd102a7ee7e5ab5572a21jpeg.jpeg?imageMogr/quality/80/format/webp/thumbnail/!142x142r/gravity/Center/crop/142x142/"
+      ],
+      "tagType": [
+        0,
+        3
+      ],
+      "recommend": [
+        "羊腰",
+        "五花肉",
+        "羊肉串",
+        "香菇",
+        "鸡皮"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469271264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "服务态度不错",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        1
+      ],
+      "recommend": [
+        "鱼豆腐",
+        "牛板筋"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1469261964000,
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1469261864000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心店铺",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        2
+      ],
+      "recommend": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1469251264000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        1
+      ],
+      "recommend": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1469241964000,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "送货速度蜗牛一样",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1469231964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "味道不错,刚开始数量数错了......",
+      "reply": "谢谢, 东西多看错是难免的, 欢迎再次光临!",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        7
+      ],
+      "recommend": []
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469221264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "服务还不错, 打电话解释了晚点的原因",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        5,
+        6
+      ],
+      "recommend": [
+        "掌中宝",
+        "五花肉",
+        "猪脆骨",
+        "羊肉串"
+      ]
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1469211964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1469201964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "烧烤真的好好吃量也足的",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        0
+      ],
+      "recommend": [
+        "鸡皮"
+      ]
+    },
+    {
+      "username": "匿名用户",
+      "rateTime": 1469191264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "寒冷的雨夜有了罪恶但是戒不掉的烧烤和不辞劳苦的骑手加上贴心店主的小纸条温暖至极只能隔着屏幕再多说声谢谢!",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        0,
+        1,
+        4
+      ],
+      "recommend": []
+    },
+    {
+      "username": "t******b",
+      "rateTime": 1469181964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "f******c",
+      "rateTime": 1469171964000,
+      "deliveryTime": 15,
+      "score": 5,
+      "rateType": 0,
+      "text": "送货速度很快",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        5
+      ],
+      "recommend": []
+    },
+    {
+      "username": "k******3",
+      "rateTime": 1469161264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "说是烧烤, 感觉像是炸的, 太失望了这味道",
+      "reply": "我们家可是传统木炭烧烤!!!你有没有吃过烧烤!不喜欢以后别点了~",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "鲳鳊鱼",
+        "五花肉"
+      ]
+    },
+    {
+      "username": "u******b",
+      "rateTime": 1469151964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "下雨天给快递小哥点个赞",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        2
+      ],
+      "recommend": []
+    },
+    {
+      "username": "s******c",
+      "rateTime": 1469141964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        6
+      ],
+      "recommend": []
+    },
+    {
+      "username": "z******3",
+      "rateTime": 1469131264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "吃了还想再吃",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        3
+      ],
+      "recommend": []
+    },
+    {
+      "username": "n******b",
+      "rateTime": 1469121964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "骑手速度慢,本来当晚饭,结果自己弄完了都吃好了还没来!",
+      "reply": "不好意思下雨天爆单了,骑手手上单子多得送不过来,我们也很无奈~",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "m******c",
+      "rateTime": 1469111964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "好吃",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        2
+      ],
+      "recommend": []
+    },
+    {
+      "username": "l******3",
+      "rateTime": 1469101264000,
+      "deliveryTime": 40,
+      "score": 5,
+      "rateType": 0,
+      "text": "还不错吧",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        6
+      ],
+      "recommend": []
+    },
+    {
+      "username": "3******o",
+      "rateTime": 1469091964000,
+      "deliveryTime": "",
+      "score": 2,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******p",
+      "rateTime": 1469081964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "很喜欢的粥",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        7
+      ],
+      "recommend": []
+    },
+    {
+      "username": "o******k",
+      "rateTime": 1469071264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        5
+      ],
+      "recommend": []
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        3
+      ],
+      "recommend": []
+    },
+    {
+      "username": "小******0",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 1,
+      "rateType": 1,
+      "text": "外卖少了两串花菜两串韭菜两串羊肉打电话给老板老板说什么不可能",
+      "reply": "你点了30块钱的烧烤四人吃几样东西跟我说烧了两个花菜两个羊肉串两个韭菜怎么可能我记得很清楚",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        1
+      ],
+      "recommend": []
+    },
+    {
+      "username": "4******6",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        4
+      ],
+      "recommend": [
+        "红星二锅头",
+        "鸡骨头",
+        "五花肉",
+        "面筋",
+        "花菜"
+      ]
+    },
+    {
+      "username": "匿名用户",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "服务还不错,打电话解释了晚点的原因,商家态度是好的",
+      "reply": "谢谢你,这是我们应该做的",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        6
+      ],
+      "recommend": []
+    },
+    {
+      "username": "匿名用户",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "烧烤真的好好吃量也足的",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        1,
+        2
+      ],
+      "recommend": []
+    },
+    {
+      "username": "f******b",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        0
+      ],
+      "recommend": []
+    },
+    {
+      "username": "k******c",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "匿名用户",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        6,
+        7
+      ],
+      "recommend": [
+        "牛肉串",
+        "羊肉串",
+        "面筋"
+      ]
+    },
+    {
+      "username": "喜****o",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        5
+      ],
+      "recommend": [
+        "奥尔良烤鸡翅",
+        "牛肉串",
+        "五花肉"
+      ]
+    },
+    {
+      "username": "k******c",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        3,
+        4
+      ],
+      "recommend": []
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "匿名用户",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        4
+      ],
+      "recommend": []
+    },
+    {
+      "username": "d******k",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        6
+      ],
+      "recommend": []
+    },
+    {
+      "username": "汪***苗",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        7
+      ],
+      "recommend": []
+    },
+    {
+      "username": "l******c",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        1
+      ],
+      "recommend": []
+    },
+    {
+      "username": "匿名用户",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        4,
+        5
+      ],
+      "recommend": []
+    },
+    {
+      "username": "匿名用户",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "tagType": [
+        3
+      ],
+      "recommend": [
+        "羊肉串",
+        "香菇"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 1,
+      "rateType": 1,
+      "text": "都焦了没有那个不焦",
+      "reply": "都焦了？？不好意思，今天晚上确实很忙，别人要说焦了我信，但烤你这份的时候一点也不忙，就烤了你这份，不可能都焦了，只有鲫鱼皮会有一点焦，但不烤成那样也不能吃吧！烧烤不是油炸！但还是要谢谢你的光临！",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "依*****比",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    }
+  ]
+}

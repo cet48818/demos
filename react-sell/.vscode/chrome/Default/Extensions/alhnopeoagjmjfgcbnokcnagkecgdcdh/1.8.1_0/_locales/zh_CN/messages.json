@@ -1,0 +1,17 @@
+{
+   "appDesc": {
+      "description": "维棠视频下载助手，在Chrome浏览器中添加快捷按钮和右键菜单。在浏览网页的时候，可以快速调用“维棠”下载视频。",
+      "message": "维棠视频下载助手，在Chrome浏览器中添加快捷按钮和右键菜单。在浏览网页的时候，可以快速调用“维棠”下载视频。"
+   },
+   "appName": {
+      "description": "维棠视频下载助手",
+      "message": "维棠视频下载助手"
+   },
+   "menuLabel": {
+      "message": "用【维棠】下载视频(&X)"
+   },
+   "shortName": {
+      "description": "维棠助手",
+      "message": "维棠助手"
+   }
+}

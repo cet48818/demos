@@ -1,0 +1,39 @@
+@import 'src/common/css/mixin';
+
+.tab {
+  position: relative;
+  z-index: 6;
+  width: 100%;
+  display: flex;
+  box-sizing: border-box;
+  // 主轴对齐
+  justify-content: space-around;
+  // 交叉轴对齐
+  align-items: center;
+  height: to-rem(40);
+  border-bottom: to-rem(1) solid #ddd;
+  background: #fff;
+}
+.tab-item {
+  position: relative;
+  top: to-rem(1);
+  height: to-rem(18);
+  a {
+    display: inline-block;
+    padding: 0 to-rem(5);
+    height: 100%;
+  }
+  // .underline {
+  //   position: absolute;
+  //   left: 0;
+  //   right: 0;
+  //   visibility: hidden;
+  //   bottom: to-rem(-2);
+  //   height: to-rem(3);
+  //   background: #3190e8;
+  // }
+}
+.tab-active {
+  color: #3190e8;
+  border-bottom: to-rem(3) solid #3190e8;
+}

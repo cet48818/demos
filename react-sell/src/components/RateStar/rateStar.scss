@@ -1,0 +1,41 @@
+@import 'src/common/css/mixin';
+
+.ratestar-wrapper {
+  display: flex;
+  justify-content: space-between;
+  .ratestar-main-container {
+    position: relative;
+    .ratestar-container {
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      z-index: 1;
+      width: 0;
+      height: 100%;
+      overflow: hidden;
+      div {
+        height: 100%;
+        svg {
+          vertical-align: top;
+        }
+      }
+    }
+    .ratestar-bg-container {
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      div {
+        height: 100%;
+        svg {
+          vertical-align: top;
+        }
+      }
+    }
+  }
+
+}

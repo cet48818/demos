@@ -1,0 +1,17 @@
+{
+   "appDesc": {
+      "description": "This extension will add ViDown to context menu.",
+      "message": "This extension will add ViDown to context menu."
+   },
+   "appName": {
+      "description": "ViDown Video downloader helper",
+      "message": "ViDown Video downloader helper"
+   },
+   "menuLabel": {
+      "message": "Call ViDown to download video(&X)"
+   },
+   "shortName": {
+      "description": "ViDown Video downloader helper",
+      "message": "ViDown Helper"
+   }
+}

@@ -1,0 +1,8 @@
+@import 'src/common/css/mixin';
+    .fullsize-img {
+      position: absolute;
+      display: block;
+      transition: all .3s;
+      width: to-rem(66);
+      height: to-rem(66);
+    }

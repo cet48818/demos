@@ -1,0 +1,55 @@
+#vidown_float_panel_div {
+	padding: 0;
+	margin: 0;
+	width: 120px;
+	height: 24px;
+	background: #EEE;
+	/*border-radius: 3px;*/
+	line-height: 16px;
+	border: solid 1px #CCC;
+	position: fixed;
+	z-index: 2147483584;
+}
+#vidown_float_panel_download {
+	padding: 0;
+	margin: 0;
+	background: url(http://static.vidown.cn/res/imgs/vidown_page_float_panel.png) no-repeat 4px 4px;
+	background-position: 0px 0px;
+	font-size: 14px;
+	width: 80px;
+	height: 16px;
+	border: none;
+	color: #555;
+	cursor: pointer;
+	text-indent: 22px;
+	margin-left: 2px;
+	margin-top: 4px;
+	display: inline-block;
+}
+#vidown_float_panel_download:hover {
+	background: url(http://static.vidown.cn/res/imgs/vidown_page_float_panel.png) no-repeat 4px 4px;
+	background-position: -80px 0px;
+	color: #FF6400;
+}
+#vidown_float_panel_sep {
+	color:#AAA;
+	padding: 0 4px 0 6px;
+	margin-top:4px;
+	font-size: 14px;
+}
+#vidown_float_panel_close {
+	padding: 0;
+	background: url(http://static.vidown.cn/res/imgs/vidown_page_float_panel.png) no-repeat 4px 4px;
+	background-position: 0px -20px;
+	width: 16px;
+	height: 16px;
+	border: none;
+	cursor: pointer;
+	position: absolute;
+	right: 7px;
+	top: 4px;
+}
+#vidown_float_panel_close:hover {
+	background: url(http://static.vidown.cn/res/imgs/vidown_page_float_panel.png) no-repeat 4px 4px;
+	background-position: -16px -20px;
+}

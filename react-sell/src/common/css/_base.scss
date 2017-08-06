@@ -1,0 +1,33 @@
+@import './mixin';
+
+body,
+html {
+    line-height: 1;
+    font-size: to-rem(14);
+    font-weight: 200;
+    font-family: 'PingFang SC', 'STHeitiSC-Light', 'Helvetica-Light', arial, sans-serif;
+}
+
+@mixin min-screen($res) {
+	@media only screen and (min-width: $res) {
+		@content;
+	}
+}
+
+// $screen-list: 320px, 375px, 414px, 640px;
+// @each $size in $screen-list {
+// 	@include min-screen($size) {
+// 		html {
+// 			font-size: $size / 10;
+// 		}
+// 	}
+// }
+
+$screen-list: 320px, 360px, 414px, 640px;
+@each $size in $screen-list {
+	@include min-screen($size) {
+		html {
+			font-size: $size / 10;
+		}
+	}
+}

@@ -1,0 +1,15 @@
+@function to-rem($px) {
+	@return $px / 37.5 * 1rem;
+}
+
+.clearfix {
+    display: inline-block;
+    &:after {
+        display: block;
+        content: '';
+        height: 0;
+        line-height: 0;
+        clear: both;
+        visibility: hidden;
+    }
+}

@@ -1,0 +1,35 @@
+{
+   "author": "vidown",
+   "background": {
+      "scripts": [ "sample.js", "logger.js" ]
+   },
+   "browser_action": {
+      "default_title": "用【维棠】下载本页视频(Alt+Q)"
+   },
+   "commands": {
+      "toggle-pin-tab": {
+         "description": "用【维棠】下载本页视频.",
+         "suggested_key": {
+            "default": "Alt+Q",
+            "mac": "Alt+Q"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "css": [ "content.css" ],
+      "js": [ "content.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "default_locale": "zh_CN",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZSKO+PMw5Q+6maaaHeyeXCJWVf5RIYuufZdpZqrZ2RokyViSTd34DgAED2LHqzvqeRyYm/Ns5aWsqYlE9tMltgPFpJFNW40cI7sDe/jk8Uqvk1rZGq0s/LIgr5Lx9t3kAyC4W3nl4oCgNEkQuCu+75b1hNb7vfWhj71G/Qu0GbwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "activeTab", "contextMenus", "pageCapture", "proxy", "tabs", "webRequest", "storage", "webRequestBlocking", "webNavigation", "*://*/*" ],
+   "short_name": "__MSG_appName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8.1"
+}

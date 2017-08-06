@@ -1,0 +1,24 @@
+@import 'src/common/css/mixin';
+.support-list {
+  padding-left: to-rem(10);
+  font-size: to-rem(10);
+  color: #fff;
+  width: to-rem(300);
+  height: 100%;
+  li {
+    margin-top: to-rem(5);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
+
+.support-icon {
+  display: inline-block;
+  margin-right: to-rem(5);
+  width: to-rem(12);
+  height: to-rem(12);
+  line-height: to-rem(14);
+  text-align: center;
+  vertical-align: bottom;
+}

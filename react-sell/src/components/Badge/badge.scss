@@ -1,0 +1,14 @@
+@import 'src/common/css/mixin';
+
+.badge {
+  box-sizing: border-box;
+  height: to-rem(14);
+  min-width: to-rem(16);
+  line-height: to-rem(14);
+  border-radius: 50%;
+  font-size: to-rem(10);
+  text-align: center;
+  background: #ff461d;
+  color: #fff;
+  padding: to-rem(2) to-rem(3);
+}
