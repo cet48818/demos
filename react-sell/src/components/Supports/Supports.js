@@ -3,11 +3,6 @@ import CSSModules from 'react-css-modules';
 import styles from './supportStyle.scss'
 
 class Header extends Component {
-  // componentDidUpdate () {
-  //   // 可正确传入
-  //   console.log(this.props.supportList)
-  // }
-
   constructor () {
     super();
     this.state = {

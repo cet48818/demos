@@ -74,7 +74,7 @@
   z-index: 1;
   width: to-rem(25);
   height: to-rem(25);
-  background: url('./left-arrow.svg') no-repeat;
+  // background: url('./left-arrow.svg') no-repeat;
   background-size: to-rem(21) to-rem(21);
   background-position: center;
   a {
@@ -89,7 +89,7 @@
   z-index: 2;
   width: to-rem(15);
   height: to-rem(15);
-  background: url('./left-arrow.svg') no-repeat;
+  // background: url('./left-arrow.svg') no-repeat;
   background-size: to-rem(12) to-rem(12);
   background-position: center;
   transform: rotate(180deg);

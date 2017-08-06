@@ -5,6 +5,7 @@ import Supports from '../Supports/Supports';
 import RateStar from '../RateStar/RateStar';
 import closeSvg from './close-min.svg';
 import { CSSTransitionGroup } from 'react-transition-group';
+import leftArrow from './left-arrow.svg';
 
 class Header extends Component {
   constructor () {
@@ -75,10 +76,10 @@ class Header extends Component {
             }个活动
           </div>
         </div>
-        <div styleName='back-btn'>
+        <div styleName='back-btn' style={{background: `url('${leftArrow}') no-repeat`}}>
           <a href="#"></a>
         </div>
-        <div styleName='seller-btn' onClick={this.showDetail.bind(this)}>
+        <div styleName='seller-btn' onClick={this.showDetail.bind(this)} style={{background: `url('${leftArrow}') no-repeat`}}>
         </div>
         <div styleName='background-wrapper'>
           <img src={this.props.seller.headerBg} alt=""/>
@@ -114,7 +115,7 @@ class Header extends Component {
         <div styleName="seller-detail-layer">
           <h1 styleName="detail-title">
             商家详情
-            <div styleName="back-btn" onClick={this.hideDetail.bind(this)}></div>
+            <div styleName="back-btn" onClick={this.hideDetail.bind(this)} style={{background: `url('${leftArrow}') no-repeat`}}></div>
           </h1>
           <div styleName="support-section section">
             <h2 styleName="head-title">活动与属性</h2>
