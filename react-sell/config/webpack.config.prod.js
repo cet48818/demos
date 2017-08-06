@@ -67,7 +67,7 @@ module.exports = {
     chunkFilename: 'static/js/[name].[chunkhash:8].chunk.js',
     // We inferred the "public path" (such as / or /my-project) from homepage.
     // publicPath: '.' + publicPath
-    publicPath: publicPath
+    publicPath: '.' + publicPath
   },
   resolve: {
     // This allows you to set a fallback for where Webpack should look for modules.
